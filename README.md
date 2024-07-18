@@ -1,5 +1,9 @@
 # Desafio de Projeto - Analisando dados de um Dashboard de Vendas no Power BI
 
+## Distribuição de Lucro, Vendas e Unidades vendidas por país e segmento
+
+[Sample_Financial.pdf](https://github.com/user-attachments/files/16290041/Sample_Financial.pdf)
+
 Em um mundo cada vez mais orientado por dados, a capacidade de extrair insights significativos e tomar decisões informadas se torna não apenas uma vantagem competitiva, mas uma necessidade premente. No epicentro dessa revolução analítica está o Power BI, uma ferramenta poderosa que não apenas facilita a visualização de dados, mas também permite a manipulação sofisticada para análise profunda.
 
 O desafio de projeto proposto representa um marco significativo nessa jornada de aprendizado e aplicação de Power BI. Sua essência reside na consolidação dos conhecimentos previamente adquiridos e, ao mesmo tempo, na expansão dessas habilidades para novos horizontes de descoberta e interpretação de dados. A proposta é clara: não apenas criar visuais estáticos, mas construir narrativas visuais dinâmicas que contem histórias complexas de maneira simples e impactante.
